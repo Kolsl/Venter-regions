@@ -1,0 +1,43 @@
+body{
+  background: url('https://i.postimg.cc/0245VMry/leather-book-transparent.png') no-repeat;
+  background-size: 100% 120%;
+  background-color: #704b12
+}
+header{
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  background-color: #664008;
+  border: 5px solid #362306;
+  border-radius: 10px;
+  color: white
+}
+.green{
+  text-align: center;
+  margin-top: 10px;
+  background: url('https://i.postimg.cc/BQ87Jxzf/Chat-GPT-Image-8-2025-14-24-25.png') no-repeat;
+  background-size: 100% 100%;
+}
+h2{
+  padding-top: 50px
+}
+.desc{
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  width: 60%;
+  padding-left: 250px;
+}
+.land{
+  display: inline;
+  width: 300px;
+  padding-bottom: 40px
+}
+footer{
+  background-color: #664008;
+  height: 50px;
+  border: 5px solid #362306;
+  border-radius: 10px
+}
